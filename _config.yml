@@ -1,6 +1,7 @@
 name: Twister
 description: a powerful jekyll theme
 url: #place url
+gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
